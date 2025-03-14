@@ -11,7 +11,7 @@ This application is built with **Go 1.24.1** (tested on `linux/amd64`) and uses 
 ### Steps to Run
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/singhamritpalAP/Sales-Insights.git
    
 2. Navigate to the cmd directory:
    ```bash
