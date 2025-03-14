@@ -1,8 +1,6 @@
 module sales
 
-go 1.21
-
-toolchain go1.22.0
+go 1.24
 
 require (
 	github.com/gin-gonic/gin v1.10.0
